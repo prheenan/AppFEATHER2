@@ -1,0 +1,6 @@
+[submodule "Lib/UtilGeneral"]
+	path = Lib/UtilGeneral
+	url = https://github.com/prheenan/UtilGeneral.git
+[submodule "Lib/UtilForce"]
+	path = Lib/UtilForce
+	url = https://github.com/prheenan/UtilForce.git
